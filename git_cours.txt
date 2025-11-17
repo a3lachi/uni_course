@@ -1,2 +1,2 @@
 
-Devops est l'ensemble des pratiques ameliorant la collaboration entre les developpeurs et les l'equipe de production.
+Devops est l'ensemble des pratiques ameliorant la collaboration entre les developpeurs et les l'equipe de production.TTTT
